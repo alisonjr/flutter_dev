@@ -1,0 +1,10 @@
+version: "3"
+services:
+  flutter:
+    build: .
+    image: ubuntu-18.4-docker 
+    container_name: "flutter_dev"
+    image: ubuntu-flutter
+    volumes:
+      - /home/alison/Documentos/flutter:/home/developer/workspace
+    

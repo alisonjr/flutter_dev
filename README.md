@@ -1,3 +1,8 @@
+Fork of Cezary Żelisko.
+
+Ambiente de desenvolvimento Dart/Flutter rodando em container.
+
+
 # flutter_dev
 
 author: Cezary Żelisko
